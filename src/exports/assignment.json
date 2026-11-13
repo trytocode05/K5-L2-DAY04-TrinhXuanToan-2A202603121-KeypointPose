@@ -1,0 +1,65 @@
+{
+ "mssv": "02603121",
+ "ten": "TrinhXuanToan",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "xuntoan196",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000175703.jpg",
+  "000000240340.jpg",
+  "000000308257.jpg",
+  "000000349521.jpg",
+  "000000399983.jpg",
+  "000000090646.jpg",
+  "000000183176.jpg",
+  "000000324953.jpg",
+  "000000123544.jpg",
+  "000000210604.jpg",
+  "000000253584.jpg",
+  "000000309169.jpg"
+ ],
+ "faces": [
+  "face_10579.jpg",
+  "face_125051.jpg",
+  "face_147624.jpg",
+  "face_145621.jpg",
+  "face_264124.jpg",
+  "face_249336.jpg",
+  "face_405456.jpg",
+  "face_560282.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "persons-TrinhXuanToan"
+  },
+  "faces": {
+   "task_id": 15,
+   "job_id": 15,
+   "task_name": "faces-TrinhXuanToan"
+  },
+  "persons-extra": {
+   "task_id": 16,
+   "job_id": 16,
+   "task_name": "persons-extra-TrinhXuanToan"
+  },
+  "faces-extra": {
+   "task_id": 17,
+   "job_id": 17,
+   "task_name": "faces-extra-TrinhXuanToan"
+  }
+ },
+ "persons_extra": [
+  "000000125998.jpg",
+  "000000465765.jpg",
+  "000000507223.jpg"
+ ],
+ "faces_extra": [
+  "face_274219.jpg",
+  "face_280788.jpg",
+  "face_296417.jpg",
+  "face_379585.jpg",
+  "face_68290.jpg"
+ ]
+}
